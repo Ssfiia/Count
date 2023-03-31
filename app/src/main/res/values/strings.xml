@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Count</string>
+    <string name="start">Старт активности</string>
+    <string name="stop">Стоп активности</string>
+    <string name="pause">Пауза активности</string>
+    <string name="resume">Возобнавление активности</string>
+    <string name="destroy">Уничтожение активности</string>
+    <string name="save">Сохранение активности</string>
+    <string name="restore">Востановление активности</string>
+
+</resources>
